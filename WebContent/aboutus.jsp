@@ -83,11 +83,7 @@
 		<h2>
 			We are<br> Web Design<br> Heroes
 		</h2>
-		<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
-			diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam
-			erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci
-			tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo
-			consequat.</p>
+		<p>Our organization focuses the mainly beauty of Ramtek and its heritage</p>
 		<div class="about-us-icons">
 			<i class="icon-paperplane_ico"></i> <i class="icon-trophy"></i> <i
 				class="icon-clock"></i>
